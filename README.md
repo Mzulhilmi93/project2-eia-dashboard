@@ -56,7 +56,7 @@ risks before writing their EIA report.
 ## 📊 Visualisations
 
 ### Air Quality Distribution
-![Air Quality](charts/eia/air_quality_distribution.png)
+![Air Quality]("C:\Users\user\Desktop\Zul\Data_Analyst_Portfolio\Notebook\charts\eia\air_quality_distribution.png")
 
 ### PM2.5 vs Malaysian DoE Limit
 ![PM2.5](charts/eia/pm25_vs_limit.png)
